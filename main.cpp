@@ -1,7 +1,6 @@
 #include <iostream>
 #include "Tienda.h"
 using std::cout;
-using std::cin;
 
 // menú basico para usar la tienda
 void menu() {
